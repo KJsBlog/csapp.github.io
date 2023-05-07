@@ -1,35 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>KJsBlog</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-07T07:50:20.752Z</updated>
+  <updated>2023-05-07T11:04:31.548Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Jack Liang</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>About Me</title>
+    <link href="http://example.com/2023/05/07/about/"/>
+    <id>http://example.com/2023/05/07/about/</id>
+    <published>2023-05-07T10:07:04.000Z</published>
+    <updated>2023-05-07T11:04:31.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSAPP Lesson 1</title>
+    <link href="http://example.com/2023/05/07/CSAPP-Lesson-1/"/>
+    <id>http://example.com/2023/05/07/CSAPP-Lesson-1/</id>
+    <published>2023-05-07T07:56:10.000Z</published>
+    <updated>2023-05-07T08:03:49.411Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CSAPP" scheme="http://example.com/categories/CSAPP/"/>
+    
+    
+    <category term="CSAPP" scheme="http://example.com/tags/CSAPP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello world</title>
-    <link href="http://example.com/1970/01/01/hello-world/"/>
-    <id>http://example.com/1970/01/01/hello-world/</id>
-    <published>1970-01-01T00:00:00.000Z</published>
-    <updated>2023-05-07T07:50:20.752Z</updated>
+    <link href="http://example.com/2023/05/07/hello-world/"/>
+    <id>http://example.com/2023/05/07/hello-world/</id>
+    <published>2023-05-07T07:56:10.000Z</published>
+    <updated>2023-05-07T09:03:37.888Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;code&gt;欢迎来到KJ的博客世界，我将会在这里更新有关于计算机的知识以及日常的生活，欢迎大家来看我的blog。&lt;/code&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
         
       
     
