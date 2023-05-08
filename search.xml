@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>About Me</title>
-    <url>/2023/05/07/about/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><blockquote>
-<p>A developer, live in  Zhongshan, China.</p>
-</blockquote>
-<p>姓名：梁凯杰<br>现居：中山<br>GitHub: <a href="https://github.com/KJsBlog">KJ’s Blog</a><br>QQ: <a href="mailto:&#49;&#48;&#x34;&#57;&#57;&#x37;&#56;&#48;&#54;&#55;&#x40;&#x71;&#x71;&#x2e;&#99;&#x6f;&#109;">&#49;&#48;&#x34;&#57;&#57;&#x37;&#56;&#48;&#54;&#55;&#x40;&#x71;&#x71;&#x2e;&#99;&#x6f;&#109;</a><br>微信: wxid_mzsel9ls3g7v22</p>
-]]></content>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CSAPP Lesson 1</title>
     <url>/2023/05/07/CSAPP-Lesson-1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="Gist-of-Lesson-1"><a href="#Gist-of-Lesson-1" class="headerlink" title="Gist of Lesson 1"></a><strong>Gist of Lesson 1</strong></h1><hr>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Gist-of-Lesson-1"><a href="#Gist-of-Lesson-1" class="headerlink" title="Gist of Lesson 1"></a><strong>Gist of Lesson 1</strong></h1><hr>
 <p><em>摘要：这是笔者正式学习CMU的CSAPP教程的过程总结，是属于<font color = #ffa500 face ="楷体" size = 5>边学边看</font>的方式进行写作。看看学完之后的自己和学之前的自己再操作系统上的理解有什么改变和提高，同时记录下初学者在进行学习时最开始的感受，以初学者的视角，记录下这门课程的真是学习经历</em></p>
 <h2 id="Lesson-1"><a href="#Lesson-1" class="headerlink" title="Lesson 1"></a>Lesson 1</h2><p>今天看CSAPP的第一课，虽然中间的大部分时间是讲学术诚信，对于我个上网课的没什么启发，但其中教授抛出的一个问题还是很适合我的思考，这里写下来，希望在学成之后对这个问题能有更好的理解。</p>
 <ol>
@@ -50,9 +38,21 @@
   <entry>
     <title>Hello world</title>
     <url>/2023/05/07/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><table><tr><td bgcolor=#f7ff05><font size = 10 face ="黑体" color = "red">破壳第一天</font></td></tr></table>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><table><tr><td bgcolor=#f7ff05><font size = 10 face ="黑体" color = "red">破壳第一天</font></td></tr></table>
 
 <p>欢迎来到<font size =4 color = "orange">KJ</font>的博客世界，我将会在这里更新有关于计算机的知识以及日常的生活，欢迎大家来看我的blog。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2023/05/07/about/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
+<p>A developer, live in  Zhongshan, China.</p>
+</blockquote>
+<p>姓名：梁凯杰<br>现居：中山<br>GitHub: <a href="https://github.com/KJsBlog">KJ’s Blog</a><br>QQ: <a href="mailto:&#x31;&#48;&#52;&#x39;&#57;&#x37;&#56;&#x30;&#54;&#x37;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;">&#x31;&#48;&#52;&#x39;&#57;&#x37;&#56;&#x30;&#54;&#x37;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;</a><br>微信: wxid_mzsel9ls3g7v22</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
   </entry>
 </search>
